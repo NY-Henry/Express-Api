@@ -1,11 +1,9 @@
-# 🚀 [demo](https://expressapi-8ffj.onrender.com/)
-
-> A modern, production-ready Express.js and TypeScript starter template with hot reloading, ES modules, and zero configuration setup.
-
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-blue.svg)](https://www.typescriptlang.org/)
 [![Express](https://img.shields.io/badge/Express-5.0%2B-lightgrey.svg)](https://expressjs.com/)
 [![License](https://img.shields.io/badge/License-ISC-yellow.svg)](LICENSE)
+
+🚀 [live demo](https://expressapi-8ffj.onrender.com/)
 
 Get your Express TypeScript API up and running in **under 30 seconds**! ⚡
 
